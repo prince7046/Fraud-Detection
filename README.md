@@ -111,7 +111,7 @@ This project demonstrates a practical approach to detecting fraudulent transacti
 👤 Author
 
 Prince
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/prince7046)
 
 📄 License
 
